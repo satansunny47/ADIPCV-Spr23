@@ -1,0 +1,35 @@
+Epoch: 1 	Training Loss: 0.202951 	Training Dice Coeffienct: 0.474596 	Validation Loss: 17.892183 	Validation Dice Coeffienct: 0.438993 
+Validation loss decreased (inf --> 17.892183).  Saving model ...
+Epoch: 2 	Training Loss: 0.201392 	Training Dice Coeffienct: 0.470434 	Validation Loss: 17.436300 	Validation Dice Coeffienct: 0.458371 
+Validation loss decreased (17.892183 --> 17.436300).  Saving model ...
+Epoch: 3 	Training Loss: 0.199520 	Training Dice Coeffienct: 0.465840 	Validation Loss: 17.470078 	Validation Dice Coeffienct: 0.468801 
+Epoch: 4 	Training Loss: 0.201613 	Training Dice Coeffienct: 0.466007 	Validation Loss: 17.455045 	Validation Dice Coeffienct: 0.493042 
+Epoch: 5 	Training Loss: 0.202726 	Training Dice Coeffienct: 0.469411 	Validation Loss: 17.467055 	Validation Dice Coeffienct: 0.444401 
+Epoch: 6 	Training Loss: 0.200883 	Training Dice Coeffienct: 0.466977 	Validation Loss: 17.426413 	Validation Dice Coeffienct: 0.473109 
+Validation loss decreased (17.436300 --> 17.426413).  Saving model ...
+Epoch: 7 	Training Loss: 0.202791 	Training Dice Coeffienct: 0.468013 	Validation Loss: 17.430632 	Validation Dice Coeffienct: 0.478961 
+Epoch: 8 	Training Loss: 0.198825 	Training Dice Coeffienct: 0.468558 	Validation Loss: 17.396658 	Validation Dice Coeffienct: 0.467122 
+Validation loss decreased (17.426413 --> 17.396658).  Saving model ...
+Epoch: 9 	Training Loss: 0.201200 	Training Dice Coeffienct: 0.471661 	Validation Loss: 17.436514 	Validation Dice Coeffienct: 0.444522 
+Epoch: 10 	Training Loss: 0.200804 	Training Dice Coeffienct: 0.470199 	Validation Loss: 17.385197 	Validation Dice Coeffienct: 0.432271 
+Validation loss decreased (17.396658 --> 17.385197).  Saving model ...
+Epoch: 11 	Training Loss: 0.198520 	Training Dice Coeffienct: 0.471719 	Validation Loss: 17.376964 	Validation Dice Coeffienct: 0.452311 
+Validation loss decreased (17.385197 --> 17.376964).  Saving model ...
+Epoch: 12 	Training Loss: 0.199821 	Training Dice Coeffienct: 0.471615 	Validation Loss: 17.391755 	Validation Dice Coeffienct: 0.456733 
+Epoch: 13 	Training Loss: 0.199209 	Training Dice Coeffienct: 0.472142 	Validation Loss: 17.357631 	Validation Dice Coeffienct: 0.474376 
+Validation loss decreased (17.376964 --> 17.357631).  Saving model ...
+Epoch: 14 	Training Loss: 0.196910 	Training Dice Coeffienct: 0.475594 	Validation Loss: 17.357038 	Validation Dice Coeffienct: 0.481601 
+Validation loss decreased (17.357631 --> 17.357038).  Saving model ...
+Epoch: 15 	Training Loss: 0.195992 	Training Dice Coeffienct: 0.478261 	Validation Loss: 17.345438 	Validation Dice Coeffienct: 0.431800 
+Validation loss decreased (17.357038 --> 17.345438).  Saving model ...
+Epoch: 16 	Training Loss: 0.198592 	Training Dice Coeffienct: 0.476016 	Validation Loss: 17.412840 	Validation Dice Coeffienct: 0.441436 
+Epoch: 17 	Training Loss: 0.197291 	Training Dice Coeffienct: 0.474893 	Validation Loss: 17.815061 	Validation Dice Coeffienct: 0.432975 
+Epoch: 18 	Training Loss: 0.198757 	Training Dice Coeffienct: 0.477199 	Validation Loss: 17.351851 	Validation Dice Coeffienct: 0.429335 
+Epoch: 19 	Training Loss: 0.197151 	Training Dice Coeffienct: 0.476981 	Validation Loss: 17.450193 	Validation Dice Coeffienct: 0.443585 
+Epoch: 20 	Training Loss: 0.198116 	Training Dice Coeffienct: 0.478975 	Validation Loss: 17.356551 	Validation Dice Coeffienct: 0.446984 
+Epoch: 21 	Training Loss: 0.200587 	Training Dice Coeffienct: 0.480796 	Validation Loss: 17.399666 	Validation Dice Coeffienct: 0.397580 
+Epoch: 22 	Training Loss: 0.200341 	Training Dice Coeffienct: 0.483103 	Validation Loss: 17.380864 	Validation Dice Coeffienct: 0.422051 
+Epoch: 23 	Training Loss: 0.198327 	Training Dice Coeffienct: 0.483745 	Validation Loss: 17.374113 	Validation Dice Coeffienct: 0.437571 
+Epoch: 24 	Training Loss: 0.197087 	Training Dice Coeffienct: 0.482095 	Validation Loss: 17.343179 	Validation Dice Coeffienct: 0.439957 
+Validation loss decreased (17.345438 --> 17.343179).  Saving model ...
+Epoch: 25 	Training Loss: 0.197069 	Training Dice Coeffienct: 0.483563 	Validation Loss: 17.358036 	Validation Dice Coeffienct: 0.446366 
